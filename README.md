@@ -1,5 +1,8 @@
 ## Sejam Bem-Vindos ao Meu GIT HUB 👋
-![](https://png.pngtree.com/png-vector/20230801/ourlarge/pngtree-cartoon-funny-girl-working-on-laptop-vector-png-image_6831875.png)
+
+
+
+<!--![](https://img.freepik.com/vetores-premium/mulher-com-laptop-garota-com-computador-escritorio-em-casa-conceito-de-trabalho-ou-estudo-desenho-plano-ilustracao-vetorial-isolada-eps-10_419256-241.jpg)
 
 <!--
 **akemimendes/akemimendes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
