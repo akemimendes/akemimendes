@@ -1,4 +1,5 @@
-## Hi there 👋
+## Sejam Bem-Vindos ao Meu GIT HUB 👋
+![](https://png.pngtree.com/png-vector/20230801/ourlarge/pngtree-cartoon-funny-girl-working-on-laptop-vector-png-image_6831875.png)
 
 <!--
 **akemimendes/akemimendes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
