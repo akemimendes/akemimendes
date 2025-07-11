@@ -1,6 +1,9 @@
 ## Sejam Bem-Vindos ao Meu GIT HUB 👋
-
-
+------
+😄 Olá meu nome é Akemi Mendes!
+💬 Sou graduada em análise e desenvolvimento de software pela UNIBRATEC.
+💪 Em busca de conhecimento e atualização nas linguagens e ferramentas utilizadas no mercado.
+📖 Estudar, Estudar e Estudar!
 
 <!--![](https://img.freepik.com/vetores-premium/mulher-com-laptop-garota-com-computador-escritorio-em-casa-conceito-de-trabalho-ou-estudo-desenho-plano-ilustracao-vetorial-isolada-eps-10_419256-241.jpg)
 
