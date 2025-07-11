@@ -1,4 +1,4 @@
-## Sejam Bem-Vindos ao Meu GIT HUB 👋
+## SEJAM BEM-VIDOS AO MEU GIT HUB 👋
 ------
 - 😄 Olá meu nome é Akemi Mendes!
 - 💬 Sou graduada em análise e desenvolvimento de software pela UNIBRATEC.
