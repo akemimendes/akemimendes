@@ -22,7 +22,7 @@
 |Cursos|Certificado|
 |-------|----------|
 |Formação Python|[Certificado](https://assets.dio.me/_LWyBKhWdsuzGWLQRv0QaLa7Gb_GIkzqou0cEfJHHU4/f:webp/h:320/q:70/w:450/L2NlcnRpZmljYXRlcy9jb3Zlci9FRUVFV0pNVi5qcGc)|
-|Formação GitHub|[Certificado](https://assets.dio.me/_LWyBKhWdsuzGWLQRv0QaLa7Gb_GIkzqou0cEfJHHU4/f:webp/h:320/q:70/w:450/L2NlcnRpZmljYXRlcy9jb3Zlci9FRUVFV0pNVi5qcGc)|
+|Formação GitHub|[Certificado](https://assets.dio.me/cJDayjNB_4CmTSFRWpfxHO0lwV9Uiep-L8n8D9ZqI-4/f:webp/h:320/q:70/w:450/L2NlcnRpZmljYXRlcy9jb3Zlci9PT1lEUUpWSy5qcGc)|
 -----
 
  <div>
