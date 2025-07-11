@@ -25,7 +25,10 @@
 |Formação GitHub|[Certificado](https://assets.dio.me/_LWyBKhWdsuzGWLQRv0QaLa7Gb_GIkzqou0cEfJHHU4/f:webp/h:320/q:70/w:450/L2NlcnRpZmljYXRlcy9jb3Zlci9FRUVFV0pNVi5qcGc)|
 -----
 
-![Akemi - GitHub stats](https://github-readme-stats.vercel.app/api?username=akemimendes&theme=dark&show_icons=true)
-![Akemi - GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=akemimendes&theme=dracula&show_icons=true)
+ <div>
+  <a href="https://github.com/akemimendes">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=akemimendes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akemimendes&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 
