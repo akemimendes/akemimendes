@@ -9,11 +9,11 @@
 ------
 ### LINGUAGENS E FERRAMENTAS
 <p align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="90px" style="margin-right: 10px;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg"width="90px" height="90px" style="margin-right: 10px;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="90px" height="90px" style="margin-right: 10px;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="90px" height="90px" style="margin-right: 10px;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="90px" height="90px" style="margin-right: 10px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="60px" style="margin-right: 10px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg"width="60px" height="90px" style="margin-right: 10px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="60px" height="90px" style="margin-right: 10px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="60px" height="90px" style="margin-right: 10px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="60px" height="90px" style="margin-right: 10px;">
 </p>
 
 ------
@@ -27,8 +27,8 @@
 
  <div>
   <a href="https://github.com/akemimendes">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=akemimendes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akemimendes&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180px" width="180px" src="https://github-readme-stats.vercel.app/api?username=akemimendes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180px" width="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akemimendes&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 
