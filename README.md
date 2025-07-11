@@ -24,6 +24,6 @@
 |Formação GitHub|[Certificado](https://assets.dio.me/_LWyBKhWdsuzGWLQRv0QaLa7Gb_GIkzqou0cEfJHHU4/f:webp/h:320/q:70/w:450/L2NlcnRpZmljYXRlcy9jb3Zlci9FRUVFV0pNVi5qcGc)|
 -----
 
-[Akemi - GitHub stats](https://github-readme-stats.vercel.app/api?username=akemimendes&theme=dark&show_icons=true))
+![Akemi - GitHub stats](https://github-readme-stats.vercel.app/api?username=akemimendes&theme=dark&show_icons=true)
 
 
