@@ -26,6 +26,6 @@
 -----
 
 ![Akemi - GitHub stats](https://github-readme-stats.vercel.app/api?username=akemimendes&theme=dark&show_icons=true)
-![[Akemi - GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=akemimendes&layout=compact&langs_count=7&theme=dracula)
+![Akemi - GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=akemimendes&layout=compact&langs_count=7&theme=dracula)
 
 
