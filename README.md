@@ -11,6 +11,8 @@
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="100px">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg"width="100px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="100px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg">
 
 <!--![](https://img.freepik.com/vetores-premium/mulher-com-laptop-garota-com-computador-escritorio-em-casa-conceito-de-trabalho-ou-estudo-desenho-plano-ilustracao-vetorial-isolada-eps-10_419256-241.jpg)
 
