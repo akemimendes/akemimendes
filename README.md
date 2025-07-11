@@ -9,6 +9,8 @@
 ------
 ### LINGUAGENS E FERRAMENTAS
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="100px">
+
 
 <!--![](https://img.freepik.com/vetores-premium/mulher-com-laptop-garota-com-computador-escritorio-em-casa-conceito-de-trabalho-ou-estudo-desenho-plano-ilustracao-vetorial-isolada-eps-10_419256-241.jpg)
 
