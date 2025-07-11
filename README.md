@@ -9,10 +9,18 @@
 ------
 ### LINGUAGENS E FERRAMENTAS
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="100px">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg"width="100px">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="100px">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="100px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="90px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg"width="90px" height="90px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="90px" height="90px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="90px" height="90px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="90px" height="90px">
+
+### CURSOS E CERTIFICADOS
+
+|Cursos|Certificado|
+|-------|----------|
+|Formação Python|[Certificado](https://assets.dio.me/_LWyBKhWdsuzGWLQRv0QaLa7Gb_GIkzqou0cEfJHHU4/f:webp/h:320/q:70/w:450/L2NlcnRpZmljYXRlcy9jb3Zlci9FRUVFV0pNVi5qcGc)|
+
 
 <!--![](https://img.freepik.com/vetores-premium/mulher-com-laptop-garota-com-computador-escritorio-em-casa-conceito-de-trabalho-ou-estudo-desenho-plano-ilustracao-vetorial-isolada-eps-10_419256-241.jpg)
 
