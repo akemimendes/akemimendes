@@ -8,12 +8,13 @@
 
 ------
 ### LINGUAGENS E FERRAMENTAS
-
+<p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="90px" style="margin-right: 10px;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg"width="90px" height="90px" style="margin-right: 10px;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="90px" height="90px" style="margin-right: 10px;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="90px" height="90px" style="margin-right: 10px;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="90px" height="90px" style="margin-right: 10px;">
+</p>
 
 ------
 ### CURSOS E CERTIFICADOS
