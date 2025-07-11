@@ -4,7 +4,7 @@
 - 💬 Sou graduada em análise e desenvolvimento de software pela UNIBRATEC.
 - 💪 Estou em busca de conhecimento e atualização nas linguagens e ferramentas utilizadas no mercado.
 - 📖 Vamos estudar, estudar e estudar!
-- 📫 [LinkedId](https://br.linkedin.com/in/akemimendessugaya)
+- 📫 [Linkedid](https://br.linkedin.com/in/akemimendessugaya)
 
 ------
 ### LINGUAGENS E FERRAMENTAS
@@ -21,7 +21,10 @@
 |Cursos|Certificado|
 |-------|----------|
 |Formação Python|[Certificado](https://assets.dio.me/_LWyBKhWdsuzGWLQRv0QaLa7Gb_GIkzqou0cEfJHHU4/f:webp/h:320/q:70/w:450/L2NlcnRpZmljYXRlcy9jb3Zlci9FRUVFV0pNVi5qcGc)|
+|Formação GitHub|[Certificado](https://assets.dio.me/_LWyBKhWdsuzGWLQRv0QaLa7Gb_GIkzqou0cEfJHHU4/f:webp/h:320/q:70/w:450/L2NlcnRpZmljYXRlcy9jb3Zlci9FRUVFV0pNVi5qcGc)|
+-----
 
+[Akemi Mendes - GitHub stats](![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true))
 
 <!--![](https://img.freepik.com/vetores-premium/mulher-com-laptop-garota-com-computador-escritorio-em-casa-conceito-de-trabalho-ou-estudo-desenho-plano-ilustracao-vetorial-isolada-eps-10_419256-241.jpg)
 
