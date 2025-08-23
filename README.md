@@ -4,7 +4,7 @@
 - 💬 Sou graduada em análise e desenvolvimento de software pela UNIBRATEC.
 - 💪 Estou em busca de conhecimento e atualização nas linguagens e ferramentas utilizadas no mercado.
 - 📖 Vamos estudar, estudar e estudar!
-- 📫 [Linkedid](https://br.linkedin.com/in/akemimendessugaya)
+- 📫 [Linkedin](https://br.linkedin.com/in/akemimendessugaya)
 
 ------
 ### LINGUAGENS E FERRAMENTAS
